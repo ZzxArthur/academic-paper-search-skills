@@ -23,7 +23,7 @@
 ## 📋 仓库文件结构
 
 ```text
-academic-paper-search-skill/
+academic-paper-search-skills/
 ├── SKILL.md                  # 核心技能规范（符合 Agent Skill 标准）
 ├── references/
 │   └── REPORT_TEMPLATE.md    # 标准文献调研报告模板
